@@ -1,4 +1,4 @@
-# hctsa_phenotypingWorm_python
+# hctsa: time-series phenotyping of *Caenorhabditis elegans*
 
 Machine learning classification using [scikit-learn](https://scikit-learn.org/) and features from [hctsa](https://github.com/benfulcher/hctsa) analysis on movement speed data of five strains of the nematode worm *Caenorhabditis elegans*: the CB4856 (Hawaiian wild isolate), and N2 (lab) strains, the mutants *dpy-20(e1282)* (morphological mutant), *unc-9(e101)* (neural mutant), and *unc-38(e264)* (neural mutant).
 
